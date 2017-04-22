@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: CESAG22April2017
+  host: CESAG22April2017
+  disk_quota: 1024M
